@@ -1,5 +1,5 @@
 # Project
-Get the MyAnimeDataset data and process some metrics about it and then send to a MySQL table.
+Get the MyAnimeDataset data and process some metrics using PySpark.
 
 Genre statistics per date:
 * Median reviews written per date;
